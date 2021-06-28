@@ -9,8 +9,8 @@ def check_fibonacci(Sequence: List[int]) -> bool:
 
     Returns:True or False
     example:
-    if sequence=[0,1,1,2,3]
-    Return:True
+    if sequence=[0,1,1,2,3] then return True
+
     """
 
     def fibonacci(n):
